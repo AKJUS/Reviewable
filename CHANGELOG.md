@@ -1,3 +1,7 @@
+<sub>Upcoming</sub>
+
+- <kbd>Fix:</kbd> word-wrapped lines clipped in two-column diff with line-number CSS <!-- client -->
+
 <sub>2026 - 06</sub>
 
 - <kbd>Fix<i>(saas)</i>:</kbd> adding an extra organization that previously appeared under a canceled subscription no longer incorrectly reports a conflict. <!-- server 4931 -->
