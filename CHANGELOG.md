@@ -1,6 +1,6 @@
-<sub>Upcoming</sub>
+<sub>2026 - 07</sub>
 
-- <kbd>Fix:</kbd> word-wrapped lines clipped in two-column diff with line-number CSS <!-- client -->
+- <kbd>Fix:</kbd> word-wrapped lines clipped in two-column diff with line-number CSS <!-- client 7875 -->
 
 <sub>2026 - 06</sub>
 
