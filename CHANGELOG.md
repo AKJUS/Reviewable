@@ -1,3 +1,7 @@
+<sub>Upcoming</sub>
+
+- <kbd>Fix:</kbd> avoid crashing when showing all diffs after review files disconnect. <!-- client -->
+
 <sub>2026 - 07</sub>
 
 - <kbd>Fix:</kbd> word-wrapped lines clipped in two-column diff with line-number CSS <!-- client 7875 -->
