@@ -1,5 +1,6 @@
 <sub>Upcoming</sub>
 
+- <kbd>Fix:</kbd> keep collapsed diff EXPAND tabs visible when horizontal space is constrained. <!-- client -->
 - <kbd>Fix:</kbd> avoid crashing when showing all diffs after review files disconnect. <!-- client -->
 
 <sub>2026 - 07</sub>
