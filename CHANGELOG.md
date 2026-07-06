@@ -1,5 +1,6 @@
 <sub>Upcoming</sub>
 
+- <kbd>Fix<i>(saas)</i>:</kbd> fix occasional crash when reading `$data`. <!-- client -->
 - <kbd>Fix:</kbd> keep collapsed diff EXPAND tabs visible when horizontal space is constrained. <!-- client -->
 - <kbd>Fix:</kbd> avoid crashing when showing all diffs after review files disconnect. <!-- client -->
 
