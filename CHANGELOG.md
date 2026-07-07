@@ -1,12 +1,9 @@
-<sub>Upcoming</sub>
-
-- <kbd>Fix:</kbd> if the review is blocking on bots, omit them from automatically requested reviewers instead of failing. <!-- client -->
-- <kbd>Fix<i>(saas)</i>:</kbd> fix occasional crash when reading `$data`. <!-- client -->
-- <kbd>Fix:</kbd> keep collapsed diff EXPAND tabs visible when horizontal space is constrained. <!-- client -->
-- <kbd>Fix:</kbd> avoid crashing when showing all diffs after review files disconnect. <!-- client -->
-
 <sub>2026 - 07</sub>
 
+- <kbd>Fix:</kbd> if the review is blocking on bots, omit them from automatically requested reviewers instead of failing. <!-- client 7876 -->
+- <kbd>Fix<i>(saas)</i>:</kbd> fix occasional crash when reading `$data`. <!-- client 7876 -->
+- <kbd>Fix:</kbd> keep collapsed diff EXPAND tabs visible when horizontal space is constrained. <!-- client 7876 -->
+- <kbd>Fix:</kbd> avoid crashing when showing all diffs after review files disconnect. <!-- client 7876 -->
 - <kbd>Fix:</kbd> word-wrapped lines clipped in two-column diff with line-number CSS <!-- client 7875 -->
 
 <sub>2026 - 06</sub>
