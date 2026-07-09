@@ -1,5 +1,7 @@
 <sub>2026 - 07</sub>
 
+<sub>**Enterprise release 4935.7876** (min 3340.5125 GHE ^2.19 || ^3) 2026-07-09 <!-- enterprise 4935.7876 --></sub>
+
 - <kbd>Fix:</kbd> if the review is blocking on bots, omit them from automatically requested reviewers instead of failing. <!-- client 7876 -->
 - <kbd>Fix<i>(saas)</i>:</kbd> fix occasional crash when reading `$data`. <!-- client 7876 -->
 - <kbd>Fix:</kbd> keep collapsed diff EXPAND tabs visible when horizontal space is constrained. <!-- client 7876 -->
