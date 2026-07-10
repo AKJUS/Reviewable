@@ -1,8 +1,6 @@
-<sub>Upcoming</sub>
-
-- <kbd>Adm:</kbd> reduce the sampling rate of the `queues.task_waiting_time` and `github.latency` Sentry metrics. <!-- server -->
-
 <sub>2026 - 07</sub>
+
+- <kbd>Adm:</kbd> reduce the sampling rate of the `queues.task_waiting_time` and `github.latency` Sentry metrics. <!-- server 4936 -->
 
 <sub>**Enterprise release 4935.7876** (min 3340.5125 GHE ^2.19 || ^3) 2026-07-09 <!-- enterprise 4935.7876 --></sub>
 
