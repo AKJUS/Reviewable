@@ -1,10 +1,10 @@
 <sub>Upcoming</sub>
 
-- <kbd>Fix:</kbd> recover from bogus errors when the comment summarizer gets wedged. <!-- client -->
 - <kbd>Adm<i>(enterprise)</i>:</kbd> if you fetch code coverage from a self-hosted or third-party server that uses authorization headers, add its base URL to the new `REVIEWABLE_COVERAGE_URL_WHITELIST` environment variable. These coverage requests are now restricted to whitelisted URLs, with Codecov's public API allowed by default. <!-- server -->
 
 <sub>2026 - 07</sub>
 
+- <kbd>Fix:</kbd> recover from bogus errors when the comment summarizer gets wedged. <!-- client 7878 -->
 - <kbd>Adm:</kbd> reduce the sampling rate of the `queues.task_waiting_time` and `github.latency` Sentry metrics. <!-- server 4936 -->
 
 <sub>**Enterprise release 4935.7876** (min 3340.5125 GHE ^2.19 || ^3) 2026-07-09 <!-- enterprise 4935.7876 --></sub>
