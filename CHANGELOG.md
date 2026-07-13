@@ -1,5 +1,6 @@
 <sub>Upcoming</sub>
 
+- <kbd>Adm<i>(enterprise)</i>:</kbd> enable database compression. This will opportunistically compress large values as they're written but will not eagerly recompress the entire database.  It works together with database encryption if it's already set up. <!-- server -->
 - <kbd>Fix<i>(saas)</i>:</kbd> don't pop up toasts again when navigating between pages. <!-- client -->
 - <kbd>Adm:</kbd> address a number of security issues, including a few critical ones.  Details intentionally withheld but please upgrade promptly. <!-- client -->
 
