@@ -1,10 +1,7 @@
-<sub>Upcoming</sub>
-
-- <kbd>Fix<i>(saas)</i>:</kbd> don't pop up toasts again when navigating between pages. <!-- client -->
-- <kbd>Adm:</kbd> address a number of security issues, including a few critical ones.  Details intentionally withheld but please upgrade promptly. <!-- client -->
-
 <sub>2026 - 07</sub>
 
+- <kbd>Fix<i>(saas)</i>:</kbd> don't pop up toasts again when navigating between pages. <!-- client 7879 -->
+- <kbd>Adm:</kbd> address a number of security issues, including a few critical ones.  Details intentionally withheld but please upgrade promptly. <!-- client 7879 -->
 - <kbd>Adm<i>(enterprise)</i>:</kbd> enable database compression. This will opportunistically compress large values as they're written but will not eagerly recompress the entire database.  It works together with database encryption if it's already set up. <!-- server 4938 -->
 - <kbd>Adm<i>(enterprise)</i>:</kbd> if you fetch code coverage from a self-hosted or third-party server that uses authorization headers, add its base URL to the new `REVIEWABLE_COVERAGE_URL_WHITELIST` environment variable. These coverage requests are now restricted to whitelisted URLs, with Codecov's public API allowed by default. <!-- server 4937 -->
 - <kbd>Fix:</kbd> recover from bogus errors when the comment summarizer gets wedged. <!-- client 7878 -->
