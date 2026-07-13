@@ -1,5 +1,6 @@
 <sub>Upcoming</sub>
 
+- <kbd>Fix<i>(saas)</i>:</kbd> don't pop up toasts again when navigating between pages. <!-- client -->
 - <kbd>Adm:</kbd> address a number of security issues, including a few critical ones.  Details intentionally withheld but please upgrade promptly. <!-- client -->
 
 <sub>2026 - 07</sub>
