@@ -1,3 +1,7 @@
+<sub>Upcoming</sub>
+
+- <kbd>Adm:</kbd> address a number of security issues, including a few critical ones.  Details intentionally withheld but please upgrade promptly. <!-- client -->
+
 <sub>2026 - 07</sub>
 
 - <kbd>Adm<i>(enterprise)</i>:</kbd> if you fetch code coverage from a self-hosted or third-party server that uses authorization headers, add its base URL to the new `REVIEWABLE_COVERAGE_URL_WHITELIST` environment variable. These coverage requests are now restricted to whitelisted URLs, with Codecov's public API allowed by default. <!-- server 4937 -->
