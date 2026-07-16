@@ -1,3 +1,7 @@
+<sub>Upcoming</sub>
+
+- <kbd>Fix<i>(saas)</i>:</kbd> don't fail with permission denied when loading a review with a period in the owner or repository name. <!-- client -->
+
 <sub>2026 - 07</sub>
 
 - <kbd>Fix<i>(saas)</i>:</kbd> don't pop up toasts again when navigating between pages. <!-- client 7879 -->
