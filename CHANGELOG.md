@@ -1,9 +1,6 @@
-<sub>Upcoming</sub>
-
-- <kbd>Fix<i>(saas)</i>:</kbd> don't fail with permission denied when loading a review with a period in the owner or repository name. <!-- client -->
-
 <sub>2026 - 07</sub>
 
+- <kbd>Fix<i>(saas)</i>:</kbd> don't fail with permission denied when loading a review with a period in the owner or repository name. <!-- client 7880 -->
 - <kbd>Fix<i>(saas)</i>:</kbd> don't pop up toasts again when navigating between pages. <!-- client 7879 -->
 - <kbd>Adm:</kbd> address a number of security issues, including a few critical ones.  Details intentionally withheld but please upgrade promptly. <!-- client 7879 -->
 - <kbd>Adm<i>(enterprise)</i>:</kbd> enable database compression. This will opportunistically compress large values as they're written but will not eagerly recompress the entire database.  It works together with database encryption if it's already set up. <!-- server 4938 -->
