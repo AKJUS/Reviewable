@@ -1,5 +1,7 @@
 <sub>Upcoming</sub>
 
+- <kbd>Fix:</kbd> don't issue duplicate Slack notifications when a new commit is pushed. <!-- server -->
+- <kbd>Fix:</kbd> correctly infer requested reviewers after a new commit was pushed. <!-- server -->
 - <kbd>Upd:</kbd> custom completion conditions can mark their review status description as Markdown for rendering in Reviewable's Checks panel. <!-- server -->
 - <kbd>Fix:</kbd> report results after compacting revisions instead of getting stuck in a bogus "review broken" state. <!-- client -->
   > This was purely a UI bug.
