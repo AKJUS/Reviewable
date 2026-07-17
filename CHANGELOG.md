@@ -1,3 +1,7 @@
+<sub>Upcoming</sub>
+
+- <kbd>Adm:</kbd> don't try to log available memory on startup.  The result is not used anywhere and is often wrong. <!-- server -->
+
 <sub>2026 - 07</sub>
 
 - <kbd>Fix:</kbd> don't issue duplicate Slack notifications when a new commit is pushed. <!-- server 4941 -->
