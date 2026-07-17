@@ -1,11 +1,8 @@
-<sub>Upcoming</sub>
-
-- <kbd>Fix:</kbd> don't issue duplicate Slack notifications when a new commit is pushed. <!-- server -->
-- <kbd>Fix:</kbd> correctly infer requested reviewers after a new commit was pushed. <!-- server -->
-- <kbd>Upd:</kbd> custom completion conditions can mark their review status description as Markdown for rendering in Reviewable's Checks panel. <!-- server -->
-
 <sub>2026 - 07</sub>
 
+- <kbd>Fix:</kbd> don't issue duplicate Slack notifications when a new commit is pushed. <!-- server 4941 -->
+- <kbd>Fix:</kbd> correctly infer requested reviewers after a new commit was pushed. <!-- server 4941 -->
+- <kbd>Upd:</kbd> custom completion conditions can mark their review status description as Markdown for rendering in Reviewable's Checks panel. <!-- server 4941 -->
 - <kbd>Fix:</kbd> report results after compacting revisions instead of getting stuck in a bogus "review broken" state. <!-- client 7881 -->
   > This was purely a UI bug.
 - <kbd>Fix<i>(saas)</i>:</kbd> don't fail with permission denied when loading a review with a period in the owner or repository name. <!-- client 7880 -->
