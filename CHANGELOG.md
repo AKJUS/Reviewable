@@ -1,5 +1,6 @@
 <sub>Upcoming</sub>
 
+- <kbd>Upd:</kbd> custom completion conditions can mark their review status description as Markdown for rendering in Reviewable's Checks panel. <!-- server -->
 - <kbd>Fix:</kbd> report results after compacting revisions instead of getting stuck in a bogus "review broken" state. <!-- client -->
   > This was purely a UI bug.
 
