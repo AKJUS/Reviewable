@@ -1,3 +1,8 @@
+<sub>Upcoming</sub>
+
+- <kbd>Fix:</kbd> report results after compacting revisions instead of getting stuck in a bogus "review broken" state. <!-- client -->
+  > This was purely a UI bug.
+
 <sub>2026 - 07</sub>
 
 - <kbd>Fix<i>(saas)</i>:</kbd> don't fail with permission denied when loading a review with a period in the owner or repository name. <!-- client 7880 -->
