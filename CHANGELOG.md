@@ -1,11 +1,11 @@
 <sub>Upcoming</sub>
 
 - <kbd>Upd:</kbd> improve initial load times for users who belong to organizations with a very large number of repositories. <!-- client -->
-- <kbd>Fix:</kbd> prevent publish-on-push from occasionally failing when you've read more comments since it was scheduled. <!-- server -->
-- <kbd>Adm:</kbd> don't try to log available memory on startup.  The result is not used anywhere and is often wrong. <!-- server -->
 
 <sub>2026 - 07</sub>
 
+- <kbd>Fix:</kbd> prevent publish-on-push from occasionally failing when you've read more comments since it was scheduled. <!-- server 4942 -->
+- <kbd>Adm:</kbd> don't try to log available memory on startup.  The result is not used anywhere and is often wrong. <!-- server 4942 -->
 - <kbd>Fix:</kbd> don't issue duplicate Slack notifications when a new commit is pushed. <!-- server 4941 -->
 - <kbd>Fix:</kbd> correctly infer requested reviewers after a new commit was pushed. <!-- server 4941 -->
 - <kbd>Upd:</kbd> custom completion conditions can mark their review status description as Markdown for rendering in Reviewable's Checks panel. <!-- server 4941 -->
