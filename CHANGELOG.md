@@ -1,5 +1,6 @@
 <sub>Upcoming</sub>
 
+- <kbd>Upd:</kbd> improve initial load times for users who belong to organizations with a very large number of repositories. <!-- client -->
 - <kbd>Fix:</kbd> prevent publish-on-push from occasionally failing when you've read more comments since it was scheduled. <!-- server -->
 - <kbd>Adm:</kbd> don't try to log available memory on startup.  The result is not used anywhere and is often wrong. <!-- server -->
 
