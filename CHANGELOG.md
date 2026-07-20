@@ -1,5 +1,6 @@
 <sub>Upcoming</sub>
 
+- <kbd>Fix:</kbd> Fix collapsed diff expand tab positioning <!-- client -->
 - <kbd>Upd:</kbd> improve initial load times for users who belong to organizations with a very large number of repositories. <!-- client -->
 
 <sub>2026 - 07</sub>
