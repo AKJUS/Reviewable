@@ -3,7 +3,7 @@
 - <kbd>Fix:</kbd> prevent a rare race condition from corrupting reviews, preventing them from being updated, and automatically recover from such past corruption (with no data loss). <!-- server 4943 -->
 - <kbd>Fix:</kbd> include updated status checks more promptly when computing completion on merge queue commits. <!-- server 4943 -->
 - <kbd>Fix:</kbd> Fix collapsed diff expand tab positioning <!-- client 7882 -->
-- <kbd>Upd:</kbd> improve initial load times for users who belong to organizations with a very large number of repositories. <!-- client 7882 -->
+- <kbd>Upd:</kbd> improve initial dashboard and admin center load times for users who belong to organizations with a very large number of repositories. <!-- client 7882 -->
 - <kbd>Fix:</kbd> prevent publish-on-push from occasionally failing when you've read more comments since it was scheduled. <!-- server 4942 -->
 - <kbd>Adm:</kbd> don't try to log available memory on startup.  The result is not used anywhere and is often wrong. <!-- server 4942 -->
 - <kbd>Fix:</kbd> don't issue duplicate Slack notifications when a new commit is pushed. <!-- server 4941 -->
