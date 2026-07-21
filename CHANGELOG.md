@@ -1,5 +1,7 @@
 <sub>Upcoming</sub>
 
+- <kbd>Fix:</kbd> prevent a rare race condition from corrupting reviews, preventing them from being updated, and automatically recover from such past corruption (with no data loss). <!-- server -->
+- <kbd>Fix:</kbd> include updated status checks more promptly when computing completion on merge queue commits. <!-- server -->
 - <kbd>Fix:</kbd> Fix collapsed diff expand tab positioning <!-- client -->
 - <kbd>Upd:</kbd> improve initial load times for users who belong to organizations with a very large number of repositories. <!-- client -->
 
