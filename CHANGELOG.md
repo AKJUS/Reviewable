@@ -1,10 +1,7 @@
-<sub>Upcoming</sub>
-
-- <kbd>Fix:</kbd> prevent a rare race condition from corrupting reviews, preventing them from being updated, and automatically recover from such past corruption (with no data loss). <!-- server -->
-- <kbd>Fix:</kbd> include updated status checks more promptly when computing completion on merge queue commits. <!-- server -->
-
 <sub>2026 - 07</sub>
 
+- <kbd>Fix:</kbd> prevent a rare race condition from corrupting reviews, preventing them from being updated, and automatically recover from such past corruption (with no data loss). <!-- server 4943 -->
+- <kbd>Fix:</kbd> include updated status checks more promptly when computing completion on merge queue commits. <!-- server 4943 -->
 - <kbd>Fix:</kbd> Fix collapsed diff expand tab positioning <!-- client 7882 -->
 - <kbd>Upd:</kbd> improve initial load times for users who belong to organizations with a very large number of repositories. <!-- client 7882 -->
 - <kbd>Fix:</kbd> prevent publish-on-push from occasionally failing when you've read more comments since it was scheduled. <!-- server 4942 -->
