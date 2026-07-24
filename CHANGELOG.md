@@ -1,9 +1,6 @@
-<sub>Upcoming</sub>
-
-- <kbd>Adm:</kbd> throttle `Repeatedly failed to process event` Sentry warnings to one per queue every six minutes to avoid a potentially overwhelming number of events during large fan-outs. <!-- server -->
-
 <sub>2026 - 07</sub>
 
+- <kbd>Adm:</kbd> throttle `Repeatedly failed to process event` Sentry warnings to one per queue every six minutes to avoid a potentially overwhelming number of events during large fan-outs. <!-- server 4945 -->
 - <kbd>Fix:</kbd> prevent a rare race condition from corrupting reviews, preventing them from being updated, and automatically recover from such past corruption (with no data loss). <!-- server 4943 -->
 - <kbd>Fix:</kbd> include updated status checks more promptly when computing completion on merge queue commits. <!-- server 4943 -->
 - <kbd>Fix:</kbd> Fix collapsed diff expand tab positioning <!-- client 7882 -->
